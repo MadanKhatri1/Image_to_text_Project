@@ -20,14 +20,16 @@ Features
 # How it works:
 
 The application utilizes pre-trained deep learning models from the Transformers library to understand and describe visual content. Here's a simplified breakdown:
+Pre-trained Transformer Models:
+  The application employs a pre-trained image captioning model from the nlpconnect library. This model is specifically designed to analyze images and generate textual descriptions.
+   
+  Internally, the model likely consists of two sub-components:  
+  
+  Vision Transformer (ViT): This part of the model takes an image as input and extracts visual features like shapes, colors, and object arrangements. 
+      
+  GPT-2 Decoder: This section receives the extracted features from ViT and translates them into a sequence of words, forming the caption.
 
-  Pre-trained Transformer Models:
-    The application employs a pre-trained image captioning model from the nlpconnect library. This model is specifically designed to analyze images and generate textual descriptions.
-    Internally, the model likely consists of two sub-components:   
-      Vision Transformer (ViT): This part of the model takes an image as input and extracts visual features like shapes, colors, and object arrangements. 
-      GPT-2 Decoder: This section receives the extracted features from ViT and translates them into a sequence of words, forming the caption.
-
-  Streamlit: This framework makes it easy to create web apps in Python. It provides components for user interaction and displaying information.
+Streamlit: This framework makes it easy to create web apps in Python. It provides components for user interaction and displaying information.
   
 Open the application in your web browser.
   1. Click "Choose an image..." and select an image from your computer.
