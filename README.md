@@ -28,6 +28,9 @@ The application utilizes pre-trained deep learning models from the Transformers 
 Open the application in your web browser.
   1. Click "Choose an image..." and select an image from your computer.
   2. Click "Upload".
+     
 The app will process the image and generate a caption.
+
 You'll see the uploaded image alongside the generated caption.
+
 This application is a great example of how artificial intelligence can be used for creative tasks like image captioning.
