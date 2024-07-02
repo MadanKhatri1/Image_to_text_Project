@@ -22,6 +22,7 @@ Features
 The application utilizes pre-trained deep learning models from the Transformers library to understand and describe visual content. Here's a simplified breakdown:
 
   Transformers: These are state-of-the-art models trained on massive datasets of images and text. They can learn the relationships between visual features and corresponding descriptions.
+  
   Streamlit: This framework makes it easy to create web apps in Python. It provides components for user interaction and displaying information.
   Using the App:
 
