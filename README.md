@@ -10,5 +10,7 @@ Features
 
 
 Setup the project
-  1. Clone the repository: # git clone [https://github.com/MadanKhatri1/Image_to_text_Project](https://github.com/MadanKhatri1/Image_to_text_Project.git)
+  1. Clone the repository: git clone [https://github.com/MadanKhatri1/Image_to_text_Project](https://github.com/MadanKhatri1/Image_to_text_Project.git)
+  2. 
+  3. 
   
