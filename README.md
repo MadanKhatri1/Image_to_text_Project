@@ -8,3 +8,7 @@ Features
   
   3. Display the uploaded image and generated caption
 
+
+Setup the project
+  1. Clone the repository   git clone https://github.com/MadanKhatri1/Image_to_text_Project
+
