@@ -11,6 +11,7 @@ Features
 
 Setup the project
   1. Clone the repository: git clone [https://github.com/MadanKhatri1/Image_to_text_Project](https://github.com/MadanKhatri1/Image_to_text_Project.git)
-  2. 
-  3. 
+  2. CD to the Image to text project.
+  3. Run: **pip install -r requirements.txt**
+  4. Then type: **streamlit run project.py**
   
